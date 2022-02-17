@@ -46,7 +46,7 @@ class _XylophonePageState extends State<XylophonePage> {
                 child: InkWell(
                   splashColor: Colors.white,
                   onTap: () {
-                    player. play('notyi$notaNomeri.wav');
+                    player. play('notyi$notaNomeri.mp3');
                   },
                   child: Container(),
                 ),
